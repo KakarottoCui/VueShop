@@ -1,7 +1,7 @@
 # VueShop
 基于Node和VUE的前后端分离商城系统
 
-版本1演示视频链接：https://live.csdn.net/v/230650
+版本1演示视频链接：https://www.bilibili.com/video/BV14g411d7jJ
 
 版本2演示视频链接：https://www.bilibili.com/video/BV11d4y1N7eU
 
